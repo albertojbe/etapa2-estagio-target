@@ -25,7 +25,7 @@ def view():
 
 view()
 ```
-
+<br>
 - Questão 2
 ```python
 def letra_a_no_texto(texto: str):
@@ -35,8 +35,10 @@ def letra_a_no_texto(texto: str):
 
 print(letra_a_no_texto("olo"))
 ```
+<br>
 
 - Questão 3
+<br>
 ``Resultado = 77``
 
 <br>
